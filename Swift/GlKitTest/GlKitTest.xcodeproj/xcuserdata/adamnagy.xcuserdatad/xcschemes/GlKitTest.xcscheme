@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F72CA41D165002E70066A692"
+               BlueprintIdentifier = "F7C981B91BF22B670030E46D"
                BuildableName = "GlKitTest.app"
                BlueprintName = "GlKitTest"
                ReferencedContainer = "container:GlKitTest.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F72CA41D165002E70066A692"
+            BlueprintIdentifier = "F7C981B91BF22B670030E46D"
             BuildableName = "GlKitTest.app"
             BlueprintName = "GlKitTest"
             ReferencedContainer = "container:GlKitTest.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F72CA41D165002E70066A692"
+            BlueprintIdentifier = "F7C981B91BF22B670030E46D"
             BuildableName = "GlKitTest.app"
             BlueprintName = "GlKitTest"
             ReferencedContainer = "container:GlKitTest.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F72CA41D165002E70066A692"
+            BlueprintIdentifier = "F7C981B91BF22B670030E46D"
             BuildableName = "GlKitTest.app"
             BlueprintName = "GlKitTest"
             ReferencedContainer = "container:GlKitTest.xcodeproj">
